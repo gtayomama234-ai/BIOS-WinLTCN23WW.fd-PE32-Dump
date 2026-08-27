@@ -7,6 +7,7 @@ What it contains:
 * "Section_PE32_image_SetupUtility_SetupUtility_body IFR.txt" (Extracted)
 * "BIOS.csv" (Actual readable menu text exported into .csv, not binary)
 * "Section_PE32_image_SetupUtility_SetupUtility_body IFR.md" (markdowned)
+* and some other files..
 
 I think it can help BIOS modders!
 
