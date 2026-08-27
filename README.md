@@ -5,8 +5,7 @@ Dump of LTCN23WW (Rev. 23 of LTCN BIOS family) PE32 Image Section extracted with
 What it contains:
 * Section_PE32_image_SetupUtility_SetupUtility.efi
 * Section_PE32_image_SetupUtility_SetupUtility.txt (Extracted)
-* WinLTCN23WW.fd (Original BIOS Update file)
-* decrypted_bios.bin (TEST ONLY BIOS Update file, Readable by UEFITool 0.28.0 or 0.21.5)
+* BIOS.csv (Actual readable menu text exported into .csv, not binary)
 
 I think it can help BIOS modders!
 
