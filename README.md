@@ -3,9 +3,9 @@ Dump of LTCN23WW (Rev. 23 of LTCN BIOS family) PE32 Image Section extracted with
 
 ## Explanation
 What it contains:
-* Section_PE32_image_SetupUtility_SetupUtility.efi
-* Section_PE32_image_SetupUtility_SetupUtility.txt (Extracted)
-* BIOS.csv (Actual readable menu text exported into .csv, not binary)
+* "Section_PE32_image_SetupUtility_SetupUtility_body.efi"
+* "Section_PE32_image_SetupUtility_SetupUtility_body IFR.txt" (Extracted)
+* "BIOS.csv" (Actual readable menu text exported into .csv, not binary)
 
 I think it can help BIOS modders!
 
